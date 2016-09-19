@@ -1,0 +1,24 @@
+{
+  "name": "korean-search",
+  "version": "0.1.0",
+  "description": "Searching based on Korean letters in javasctipt",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abeikverdi/ksearch.git"
+  },
+  "keywords": [
+    "javasctipt",
+    "search",
+    "korean",
+    "alphabet"
+  ],
+  "author": "Alireza Beikverdi <ali@alireza.be>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/APSL/ksearch/issues"
+  },
+  "homepage": "https://github.com/APSL/ksearch#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
